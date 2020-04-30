@@ -31,7 +31,7 @@ url: "https://blog.pavlyuchenko.pp.ua" # the base hostname & protocol for your s
 github_username:  pavlyuchenko-ua
 
 # Build settings
-theme: jekyll-theme-leap-day
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
