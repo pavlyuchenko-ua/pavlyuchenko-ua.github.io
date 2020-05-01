@@ -21,10 +21,7 @@
 title: Anatoliy Pavlyuchenko blog
 email: anatoliy@pavlyuchenko.pp.ua
 description: >- # this means to ignore newlines until "baseurl:"
-  Anatoliy 
-  Pavlyuchenko 
-  blog
-  Ukraine
+  pilot
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://blog.pavlyuchenko.pp.ua" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb

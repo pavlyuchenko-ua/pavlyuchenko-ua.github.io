@@ -5,6 +5,7 @@ permalink: /about/
 ---
 
 Just ...
+Regeneration test
 
 You can find the source code for Jekyll at GitHub:
 [jekyll][jekyll-organization] /
